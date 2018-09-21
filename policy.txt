@@ -1,0 +1,1 @@
+Essentially, technical information is collected to see who is using the site and how. Nothing beyond the IP address (and the information implied therin) and the standard browser-supplied parameters are stored. This includes referrer logging. Email jhmartin@toger.us with concerns.
